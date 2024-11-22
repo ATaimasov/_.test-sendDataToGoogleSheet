@@ -1,4 +1,4 @@
-# Проект: "Передача данных в таблицу гугл из БД"
+# Проект: "Запрос данных с сервера и их передача в гугл таблицу"
 
 ## Введение
 
@@ -32,11 +32,10 @@
 Стек: 
 - Node.js
 
-
 ## Установка и запуск проекта
 
 ```
-git clone https://github.com/ATaimasov/_edu-weather-app.git
+git clone https://github.com/ATaimasov/_test-sendDataToGoogleSheet
 ```
 
 ```
