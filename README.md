@@ -35,7 +35,7 @@
 ## Установка и запуск проекта
 
 ```
-git clone https://github.com/ATaimasov/_test-sendDataToGoogleSheet
+git clone https://github.com/ATaimasov/_.test-sendDataToGoogleSheet
 ```
 
 ```
